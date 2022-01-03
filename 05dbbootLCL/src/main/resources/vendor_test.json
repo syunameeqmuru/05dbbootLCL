@@ -1,0 +1,30 @@
+[
+    {
+        "id": "946f862a-d4dd-440a-903e-0a9cc05e2a96",
+        "companyName": "training comp2",
+        "firstName": "afsf",
+        "lastName": "sohaib",
+        "website": "Waved albatross",
+        "email": "sohaib@acquirethisname.com",
+        "status": "B",
+        "gstNo": "231",
+        "addresses": [
+            {
+                "addressId": "5d2695a9-e8e2-4801-8402-530f9fe64b77",
+                "addressType": "B",
+                "street": "1909 SANTA FE DR",
+                "city": "Naperville",
+                "country": "USA",
+                "region": "IL"
+            },
+            {
+                "addressId": "57876d8f-c033-43d7-9fc2-9e67c4b0f693",
+                "addressType": "O",
+                "street": "1909 SANTA FE DR",
+                "city": "Naperville",
+                "country": "USA",
+                "region": "IL"
+            }
+        ]
+    }
+]
